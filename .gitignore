@@ -1,0 +1,52 @@
+# Java class files
+*.class
+
+# Maven target directory
+target/
+
+# Custom compiled folder (if used instead of target)
+compiled/
+
+# Logs
+*.log
+logs/
+*.out
+
+# IDE specific files
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# VS Code
+.vscode/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Environment and configuration
+.env
+*.properties.local
+*.yml.local
+
+# Build tools
+.gradle/
+build/
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
