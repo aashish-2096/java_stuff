@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.learn</groupId>
-    <artifactId>JavaItems</artifactId>
+    <artifactId>SpringBoot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Java Items</name>
     <description>Java Items</description>
